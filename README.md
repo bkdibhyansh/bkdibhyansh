@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepakbk
+- 👋 Hi, I’m @deepak b k
 - 👀 I’m interested in gaining IT knowledge
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
